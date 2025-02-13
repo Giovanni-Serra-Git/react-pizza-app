@@ -13,7 +13,7 @@ function AppLayout() {
         <div className="layout">
             {isLoading && <Loader />}
             <Header />
-            <main>
+            <main className="overflow-y-scroll">
                 <Outlet />
             </main>
             <CartOverview />
