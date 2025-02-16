@@ -1,5 +1,3 @@
-# React + Vite
-
 # Pizza App
 An app to order pizzas quickly and easily!
 Based on the **Fast React Pizza Co.** API, it allows users to **fake login**, **order pizzas** and **remove them from the cart**.
