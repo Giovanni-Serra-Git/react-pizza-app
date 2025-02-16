@@ -54,11 +54,11 @@ It provides data related to:
 # Features of the App
 
 ✔️ Fake login to access the app  
-✔️ Viewing the pizza menu  
-✔️ Adding and removing pizzas from the cart  
-✔️ Increasing or decreasing pizza quantities in the cart  
-✔️ Filling out a form for personal information  
-✔️ Setting an order with or without priority  
+✔️ View the pizza menu  
+✔️ Add and removing pizzas from the cart  
+✔️ Increase or decrease pizza quantities in the cart  
+✔️ Fill out a form for personal information  
+✔️ Set an order with or without priority  
 ✔️ Checkout with order confirmation  
 
 ❌ **The app may encounter issues (CORS) with Chrome when setting the order priority (PATCH Request).**
