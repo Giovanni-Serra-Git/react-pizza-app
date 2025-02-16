@@ -44,22 +44,22 @@ It provides data related to:
 
 # Endpoints:
 
-**GET - Get List of Menu** https://react-fast-pizza-api.onrender.com/api/menu
-**GET - Get specific Order** https://react-fast-pizza-api.onrender.com/api/orderd/id
+**GET - Get List of Menu** https://react-fast-pizza-api.onrender.com/api/menu  
+**GET - Get specific Order** https://react-fast-pizza-api.onrender.com/api/orderd/id  
 
-**POST - Create Order** https://react-fast-pizza-api.onrender.com/api/order
+**POST - Create Order** https://react-fast-pizza-api.onrender.com/api/order  
 
-**PATCH - Update Order** https://react-fast-pizza-api.onrender.com/api/order/id
+**PATCH - Update Order** https://react-fast-pizza-api.onrender.com/api/order/id  
 
 # Features of the App
 
-✔️ Fake login to access the app
-✔️ Viewing the pizza menu
-✔️ Adding and removing pizzas from the cart
-✔️ Increasing or decreasing pizza quantities in the cart
-✔️ Filling out a form for personal information
-✔️ Setting an order with or without priority
-✔️ Checkout with order confirmation
+✔️ Fake login to access the app  
+✔️ Viewing the pizza menu  
+✔️ Adding and removing pizzas from the cart  
+✔️ Increasing or decreasing pizza quantities in the cart  
+✔️ Filling out a form for personal information  
+✔️ Setting an order with or without priority  
+✔️ Checkout with order confirmation  
 
 ❌ **The app may encounter issues (CORS) with Chrome when setting the order priority (PATCH Request).**
 
