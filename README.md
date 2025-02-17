@@ -28,9 +28,9 @@ npm run dev
 The Fast React Pizza Co. API is used to manage the pizza ordering system in the app.
 It provides data related to:
 
-**Available pizzas →**  Name, ingredients, price, and image.
-**Orders →** List of placed orders with status (pending, delivered, etc.).
-**Users →** A simple fake login system to simulate authentication.
+**Available pizzas →**  Name, ingredients, price, and image.  
+**Orders →** List of placed orders with status (pending, delivered, etc.).  
+**Users →** A simple fake login system to simulate authentication.  
 
 # Sample Data received
 
